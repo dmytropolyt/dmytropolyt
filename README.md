@@ -4,7 +4,7 @@
 
 
 
-(https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmytropolyt)]
 
 
 [![codewars](https://www.codewars.com/users/dmytropolyt/badges/large)](https://www.codewars.com/users/dmytropolyt)
