@@ -4,7 +4,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats-git-master-dmytropolyt.vercel.app/api/top-langs/?username=dmytropolyt)]
+[![Top Langs](https://github-readme-stats-6hoe-git-master-dmytropolyt.vercel.app/api/top-langs/?username=dmytropolyt)]
 
 
 [![codewars](https://www.codewars.com/users/dmytropolyt/badges/large)](https://www.codewars.com/users/dmytropolyt)
